@@ -29,7 +29,7 @@
 - Built and optimized **FastAPI** services for an enterprise client project
 - Cut database round trips and fixed blocking sync calls in hot routes (conditional aggregation, expanding `IN` clauses, async-safe queries)
 - Added request-timing instrumentation via logging middleware with background tasks to keep response latency low
-- Worked with cloud data tooling (BigQuery, Firestore, Cloud SQL) and incorporated reviewer feedback in a code-review workflow
+- Worked with cloud data tooling (Cloud SQL) and incorporated reviewer feedback in a code-review workflow
 
 **Python / Django Intern — TechQRT Pvt. Ltd.**
 - Developed backend features with **Django & Django REST Framework** under the guidance of the company's director
@@ -46,7 +46,7 @@
 | **Fashion Attribute Extraction** | Pipeline comparing rule-based, spaCy NER, and LLM extraction engines behind an API | FastAPI, spaCy, LLMs |
 | **Examicle** | Sarkari Result–style exam-updates site with a CMS admin, deployed on Render | Django, DRF |
 | **ProjectHub** | Real-time collaborative platform for developers | Node.js, TypeScript, React |
-| **Pipeline Builder** | Node-based pipeline editor with DAG validation | React |
+
 
 > 🔗 All projects & write-ups: **[mine-portfolio-k7q3.onrender.com](https://mine-portfolio-k7q3.onrender.com/)**
 
